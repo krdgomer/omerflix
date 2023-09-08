@@ -1,0 +1,26 @@
+.headerDiv{
+
+    display: flex;
+    justify-content: space-between;
+    height: 10vh;
+    max-height: 10vh;
+    background-color: #321b44;
+
+}
+
+img{
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+
+    
+}
+
+.buttons{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 3rem;
+    
+}

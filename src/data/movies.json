@@ -1,0 +1,103 @@
+[
+    {
+        "title": "Av Mevsimi",
+        "genres": ["a1","a7"],
+        "src": "./media/avmevsimi.jpg",
+        "key": "m1",
+        "year": "2010",
+        "rating": "7,4"
+
+    },
+
+    {
+        "title": "Yıldızlararası",
+        "genres": ["a5"],
+        "src": "./media/yildizlararasi.jpg",
+        "key": "m2",
+        "year": "2014",
+        "rating": "8,7"
+    },
+    {
+        "title": "Testere",
+        "genres": ["a2","a3"],
+        "src": "./media/testere.jpg",
+        "key": "m3",
+        "year": "2004",
+        "rating": "7,6"
+    },
+    {
+        "title": "Eşkıya",
+        "genres": ["a1","a2"],
+        "src": "./media/eskiya.jpg",
+        "key": "m4",
+        "year": "1996",
+        "rating": "8,1"
+    },
+    {
+        "title": "Yahşi Batı",
+        "genres": ["a6","a9"],
+        "src": "./media/yahsibati.jpg",
+        "key": "m5",
+        "year": "2010",
+        "rating": "7,4"
+    },
+    {
+        "title": "Kolpaçino:Bomba",
+        "genres": ["a6"],
+        "src": "./media/kolpacinobomba.jpg",
+        "key": "m6",
+        "year": "2011",
+        "rating": "5,8"
+    },
+    {
+        "title": "Esaretin Bedeli",
+        "genres": ["a1"],
+        "src": "./media/esaretinbedeli.jpg",
+        "key": "m7",
+        "year": "1994",
+        "rating": "9,3"
+    },
+    {
+        "title": "A.R.O.G",
+        "genres": ["a6"],
+        "src": "./media/arog.jpg",
+        "key": "m8",
+        "year": "2008",
+        "rating": "7,3"
+    },
+    {
+        "title": "Ucuz Roman",
+        "genres": ["a1","a7"],
+        "src": "./media/ucuzroman.jpg",
+        "key": "m9",
+        "year": "1994",
+        "rating": "8,9"
+    },
+    {
+        "title": "Dövüş Kulübü",
+        "genres": ["a1","a2"],
+        "src": "./media/dovuskulubu.jpg",
+        "key": "m10",
+        "year": "1999",
+        "rating": "8,8"
+    },
+    {
+        "title": "Sürücü",
+        "genres": ["a4","a7"],
+        "src": "./media/surucu.jpg",
+        "key": "m11",
+        "year": "2011",
+        "rating": "7,8"
+    },
+    {
+        "title": "Matrix",
+        "genres": ["a4","a5"],
+        "src": "./media/matrix.jpg",
+        "key": "m12",
+        "year": "1999",
+        "rating": "8,7"
+    }
+    
+
+
+]
